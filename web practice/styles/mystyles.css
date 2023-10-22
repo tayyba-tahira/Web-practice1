@@ -1,0 +1,35 @@
+h1{
+    color: rgb(10, 50, 200);
+}
+ul{
+    list-style-type: none;
+    background-color: black;
+    padding: 0%;
+    overflow: hidden;
+}
+li{
+    display: inline;
+    background-color: green;
+    padding: 5px;
+    margin: 0;
+}
+a{
+    color: white;
+}
+div{
+    border: 1px dashed blue;
+    padding-left: 5px;
+    margin: 3px;
+}
+/* for specific */
+#first{
+    background-color: greenyellow;
+}
+/* effect produce for some paragraph */
+.yellowb{
+    background-color: yellow;
+}
+/* style on specific id super */
+#super{
+    text-decoration:underline ;
+}
